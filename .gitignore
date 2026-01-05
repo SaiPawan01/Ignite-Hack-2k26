@@ -1,0 +1,96 @@
+# ===============================
+# Python
+# ===============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+
+# ===============================
+# Virtual Environments
+# ===============================
+.venv/
+venv/
+env/
+ENV/
+
+# ===============================
+# Jupyter & IDE
+# ===============================
+.ipynb_checkpoints/
+.vscode/
+.idea/
+*.code-workspace
+
+# ===============================
+# Data & Datasets
+# ===============================
+data/
+dataset/
+datasets/
+*.csv
+*.tsv
+*.parquet
+
+# ===============================
+# Model Artifacts
+# ===============================
+models/
+*.pkl
+*.joblib
+
+# ===============================
+# Experiment Outputs
+# ===============================
+outputs/
+results/
+metrics/
+logs/
+*.log
+
+# ===============================
+# Visualizations & Plots
+# ===============================
+plots/
+figures/
+images/
+visualizations/
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# ===============================
+# Streamlit & Gradio
+# ===============================
+.streamlit/
+.gradio/
+.cache/
+
+# ===============================
+# Environment Variables
+# ===============================
+.env
+.env.*
+
+# ===============================
+# OS Files
+# ===============================
+.DS_Store
+Thumbs.db
+
+# ===============================
+# Build & Packaging
+# ===============================
+build/
+dist/
+*.spec
+
+# ===============================
+# Temporary Files
+# ===============================
+*.tmp
+*.bak
+*.swp
